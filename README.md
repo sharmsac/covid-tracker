@@ -25,6 +25,8 @@
 
 When universities were going back in person, I thought how many of them would need to keep track of the students that are vaccinated. So this program gives universities the ability to register themselves then give students a code specifically generated for their university. Students would register with the code and be registered under the university. This would allow the university keep track of whose vaccinated and whose not.
 
+ * [Demo & Presentation](https://youtu.be/u-M9L-bXfmE)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Built With -->
